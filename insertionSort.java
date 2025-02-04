@@ -1,4 +1,6 @@
-public class insertionSort {
+public class insertionSort {    
+    // Insertion sort -Sorting Algorithm
+
     public static void sort(int array[]){
         int n=array.length;
 
